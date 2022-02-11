@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Azin\\01_Douglas_college\\semester_5\\CSIS_4050-090_ Advanced OO Prog for Bus App\\labs\\Final_GolazinAbolfathi_300324007\\Calculator\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Azin\\douglas\\C# Calculator\\Calculator C#.Net WebForms\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Azin\\01_Douglas_college\\semester_5\\CSIS_4050-090_ Advanced OO Prog for Bus App\\labs\\Final_GolazinAbolfathi_300324007\\Calculator\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Azin\\douglas\\C# Calculator\\Calculator C#.Net WebForms\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\12368\\.nuget\\packages\\",
-      "outputPath": "C:\\Azin\\01_Douglas_college\\semester_5\\CSIS_4050-090_ Advanced OO Prog for Bus App\\labs\\Final_GolazinAbolfathi_300324007\\Calculator\\Calculator\\Calculator\\obj\\",
+      "outputPath": "C:\\Azin\\douglas\\C# Calculator\\Calculator C#.Net WebForms\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\12368\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,6 +55,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.22, 3.1.22]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -63,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

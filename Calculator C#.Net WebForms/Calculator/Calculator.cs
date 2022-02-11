@@ -6,23 +6,13 @@ namespace Calculator
 {
     public class Calculator
     {
-        // This string field stores the value that's currently displayed by the calculator. 
-        // It's constructed as the user clicks numeric keys and the decimal and +/- key.
+
         private string displayString = "";
 
-        // These Boolean fields control numeric entry. 
-        // isNewValue indicates whether the calculator is ready to receive a new numeric value. Once 
-        // the user clicks a digit button, isNewValue is set to false. When the user clicks a button 
-        // that "enters" the value, such as Add or Equals, isNewValue is set to true so the user can 
-        // enter another value.
-        // hasDecimal is used to restrict the entry to a single decimal point. It's set to true 
-        // whenever newValue is set to true, and it's set to false whenever the user clicks the 
-        // decimal point key.
+
         private bool isNewValue;
         private bool hasDecimal;
 
-        // These private fields are used to do the actual calculation with the values 
-        // entered by the user
         private decimal operand1;
         private decimal operand2;
         private Operation op;
@@ -47,8 +37,6 @@ namespace Calculator
         public string DisplayString =>
             string.IsNullOrEmpty(displayString) ? "0" : displayString;
 
-        // private helper property. Uses the public property DisplayString rather than the 
-        // private field displayString bc the DisplayString property returns "0" if null
         private decimal displayValue => Convert.ToDecimal(DisplayString);
 
         public void Append(string value)
@@ -60,7 +48,7 @@ namespace Calculator
                 isNewValue = false;
             }
 
-            // don't append "0" to a display string of "0" - prevents values like "00000"
+            
             displayString += (displayString == "0" && value == "0") ? "" : value;
         }
 
@@ -71,11 +59,9 @@ namespace Calculator
                 int newLength = displayString.Length - 1; 
                 displayString = displayString.Substring(0, newLength);
 
-                // set isNewValue to true if display string is now empty
                 if (string.IsNullOrEmpty(displayString))
                     isNewValue = true;
 
-                // set hasDecimal to false if display string now has no decimal
                 if (!displayString.Contains('.'))
                     hasDecimal = false;
             }

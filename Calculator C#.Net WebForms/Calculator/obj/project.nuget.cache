@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0k2KZg+huC97Arn3b4iyF6L/GMHk3Du5QGITZq2yxe/D1trSytVXQl27hzRqKjkm21yhFj6lP4DFdBe7KCW7DA==",
+  "dgSpecHash": "HJI5jGI4Ra5rTXqZtcXa9LxWY8n9bpith8vxKUrZ9slZSgRtCTVwEOwoUSQlA5QvyNMA8G6xMQr7+F6UR6nFSA==",
   "success": true,
-  "projectFilePath": "C:\\Azin\\01_Douglas_college\\semester_5\\CSIS_4050-090_ Advanced OO Prog for Bus App\\labs\\Final_GolazinAbolfathi_300324007\\Calculator\\Calculator\\Calculator\\Calculator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Azin\\douglas\\C# Calculator\\Calculator C#.Net WebForms\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12368\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
