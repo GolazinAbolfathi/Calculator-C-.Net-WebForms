@@ -1,0 +1,30 @@
+E:\S21\D\4050\Final\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+E:\S21\D\4050\Final\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+E:\S21\D\4050\Final\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+E:\S21\D\4050\Final\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+E:\S21\D\4050\Final\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+E:\S21\D\4050\Final\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+E:\S21\D\4050\Final\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+E:\S21\D\4050\Final\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.Form1.resources
+E:\S21\D\4050\Final\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+E:\S21\D\4050\Final\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+E:\S21\D\4050\Final\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+E:\S21\D\4050\Final\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+E:\S21\D\4050\Final\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+E:\S21\D\4050\Final\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+E:\S21\D\4050\Final\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.Form1.resources
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Azin\01_Douglas_college\semester_5\CSIS_4050-090_ Advanced OO Prog for Bus App\labs\Final_GolazinAbolfathi_300324007\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
